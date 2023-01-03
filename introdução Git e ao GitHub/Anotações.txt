@@ -1,0 +1,8 @@
+Download Git
+https://git-scm.com/download
+
+Basic Syntax
+https://www.markdownguide.org/basic-syntax
+
+HTML de referencia
+https://www.w3schools.com/tags/ref_html_browsersupport.asp
